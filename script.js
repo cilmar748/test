@@ -15,17 +15,17 @@ const noMessages = [
     "masasiiii",
     "yuu bisa yuuu",
     "yuu bisaa",
-    "bisalaa 💔",
+    "ayolaaa",
     "yuyuyuyu",
     "yuuu",
     "wleee gabisa nolak"
 ]
 
 const yesTeasePokes = [
-    "wleee",
-    "wleeee",
-    "wleeee",
-    "wle"
+    "yeeeyyy",
+    "yuuuhhuuuu",
+    "mwmehwehhew yihiii",
+    "horeeee rawrr"
 ]
 
 let yesTeasedCount = 0
